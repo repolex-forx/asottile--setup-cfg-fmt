@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "setup-cfg-fmt",
+  "versions": [
+    {
+      "commit": "6343732185b0a49e2324e6555329ff4711782cb5",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:54:23.991037+00:00"
+    }
+  ]
+}
