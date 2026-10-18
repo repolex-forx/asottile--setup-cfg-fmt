@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/setup-cfg-fmt/commit/6343732185b0a49e2324e6555329ff4711782cb5",
       "git:hexsha": "6343732185b0a49e2324e6555329ff4711782cb5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:54:23.990325+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/setup-cfg-fmt/commit/3492c51eaa557e645c78a217de82f54ba6df75a3",
